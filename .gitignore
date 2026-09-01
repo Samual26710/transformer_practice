@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 模型权重与训练产物
+weights/
+*.pt
+
+# TensorBoard 日志
+runs/
+
+# 生成的 tokenizer 文件
+tokenizer_*.json
+
+# IDE
+.vscode/
+.idea/
